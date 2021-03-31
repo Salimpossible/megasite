@@ -2270,7 +2270,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/avion-soleil.jpg");
+		background: url("images/eternal-seconds.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: center center;
@@ -2281,7 +2281,7 @@ input, select, textarea {
 }
 /*like*/
 #like {
-	background: url("images/avion-ciel-bleu.jpg");
+	background: url("images/leonel-fernandez.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: center center;
@@ -2293,7 +2293,7 @@ input, select, textarea {
 	#contact {
 		overflow: hidden;
 		padding-bottom: 0;
-		background: url("images/7.jpeg");
+		background: url("images/kuan-liao.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: center center;
